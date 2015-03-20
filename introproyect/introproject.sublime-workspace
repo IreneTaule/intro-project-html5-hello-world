@@ -1,0 +1,723 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"smal",
+				"small-12"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"add",
+				"addStaff"
+			],
+			[
+				"P",
+				"Personal"
+			],
+			[
+				"di",
+				"display: 〔property〕"
+			],
+			[
+				"sm",
+				"small-4"
+			],
+			[
+				"m",
+				"medium-12"
+			],
+			[
+				"co",
+				"column"
+			],
+			[
+				"h",
+				"hidden〔value〕"
+			],
+			[
+				"vi",
+				"visibility: 〔property〕"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"V",
+				"View"
+			],
+			[
+				"edit",
+				"editProfile"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"medi",
+				"medium-3"
+			],
+			[
+				"sma",
+				"small-12"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"F",
+				"Fitness"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"o",
+				"overtime"
+			],
+			[
+				"l",
+				"large-12"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"te",
+				"textarea	Tag"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"large",
+				"large-5"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"la",
+				"large-10"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"me",
+				"members"
+			],
+			[
+				"cl",
+				"class=〔attribute〕"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"background-",
+				"background-size: 〔property〕"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"ba",
+				"background-size: 〔property〕"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"s",
+				"style	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "introproject.sublime-project",
+			"settings":
+			{
+				"buffer_size": 95,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:  css",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/htdocs/frontend_course",
+		"/htdocs/frontend_course/introproyect"
+	],
+	"file_history":
+	[
+		"/htdocs/frontend_course/introproyect/frontent-course.sublime-project",
+		"/htdocs/frontend_course/index.html",
+		"/htdocs/frontend_course/frontent-course.sublime-project",
+		"/htdocs/magneticwill/webserver/master/public/styles/pro.css",
+		"/htdocs/magneticwill/webserver/master/public/.bower/foundation/scss/foundation/components/_reveal.scss",
+		"/htdocs/magneticwill/webserver/master/public/.bower/foundation/css/foundation.css",
+		"/htdocs/magneticwill/webserver/master/public/.bower/foundation/scss/foundation/_settings.scss",
+		"/htdocs/magneticwill/webserver/master/public/templates/promember_box.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/_followers.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/squads.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/followers_list_view.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/_members.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/customers_list_view.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/add_staff.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/info_staff.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/prostaff_box.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/staffs_list_view.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/partials/navbar.html",
+		"/htdocs/magneticwill/webserver/master/config/config.js",
+		"/htdocs/magneticwill/webserver/master/public/scripts/config.js",
+		"/htdocs/magneticwill/webserver/master/public/templates/edit_profile.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/create_profile.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/profile_view.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/_profile.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/partials/htmlend.html",
+		"/htdocs/magneticwill/webserver/master/public/templates/partials/topbar.html",
+		"/htdocs/magneticwill/webserver/master/public/styles/global.css",
+		"/htdocs/magneticwill/webserver/master/public/templates/members_list_view.html",
+		"/htdocs/magneticwill/webserver/master/config/irene.env",
+		"/htdocs/magneticwill/webserver/master/bower.json",
+		"/htdocs/magneticwill/webserver/master/public/pages/members.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/profile.html",
+		"/htdocs/magneticwill/webserver/master/public/scripts/layouts/prolayoutview.js",
+		"/htdocs/magneticwill/webserver/master/public/scripts/layouts/listcompositeview.js",
+		"/htdocs/magneticwill/webserver/master/public/.bower/font-awesome/css/font-awesome.css",
+		"/htdocs/magneticwill/webserver/master/public/templates/list_view.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/_staff.html",
+		"/Users/Irene/Desktop/_staff.html",
+		"/htdocs/magneticwill/webserver/master/public/pages/index.html",
+		"/htdocs/magneticwill/webserver/master/package.json",
+		"/htdocs/magneticwill/webserver/master/public/scripts/views/prostaffboxview.js",
+		"/htdocs/magneticwill/webserver/master/public/images/gym-526995.jpg",
+		"/htdocs/magneticwill/webserver.sublime-project",
+		"/htdocs/magneticwill/webser.sublime-project",
+		"/htdocs/magneticwill/webserver/master/public/scripts/auth/authview.js",
+		"/C/htdocs/magneticwill/webserver/master/public/templates/partials/htmlend.html",
+		"/C/htdocs/magneticwill/webserver/master/public/templates/partials/htmlstart.html",
+		"/C/htdocs/magneticwill/webserver/master/public/.bower/foundation/css/foundation.css",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/signin.html",
+		"/C/htdocs/magneticwill/webserver/master/config/config.js",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/new staff.html",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/newStaff.html",
+		"/C/Users/Irene/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Irene/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Irene/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Irene/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/members.html",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/staff.html",
+		"/C/htdocs/magneticwill/webserver/master/public/pages/index.html",
+		"/C/htdocs/magneticwill/webserver/master/public/styles/flaticon/flaticon.html",
+		"/C/htdocs/magneticwill/webserver/master/public/styles/flaticon/flaticon.css",
+		"/C/htdocs/magneticwill/webserver/master/public/styles/global.css",
+		"/C/htdocs/magneticwill/webserver/master/Gruntfile.js",
+		"/C/htdocs/magneticwill/MagneticWill_web.sublime-project",
+		"/C/Users/Irene/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/htdocs/magneticwill/webserver/master/public/styles/pro.css",
+		"/C/htdocs/magneticwill/webserver/master/.bowerrc",
+		"/C/htdocs/mw_website/css/flat-icon/flaticon.html",
+		"/C/Users/Irene/Desktop/Backend MW/handlebars-v3.0.0.js",
+		"/C/htdocs/mw_website/members.html",
+		"/C/htdocs/mw_website/navigation_bar.html",
+		"/C/htdocs/mw_website/css/foundation-icons/preview.html",
+		"/C/htdocs/smarteradmin/js/todos.js",
+		"/C/htdocs/smarteradmin/css/foundation.css",
+		"/C/htdocs/mw_website/css/todos.css",
+		"/C/htdocs/mw_website/css/style.css",
+		"/C/htdocs/smarteradmin/login.html",
+		"/C/htdocs/smarteradmin/css/style.css",
+		"/C/htdocs/smarteradmin/js/vendor/modernizr.js",
+		"/C/htdocs/smarteradmin/staff.html",
+		"/C/htdocs/smarteradmin/navigation_bar.html",
+		"/C/htdocs/magneticwill/master/public/templates/layouts/layout-landings.html",
+		"/C/htdocs/smarteradmin/pricing.html",
+		"/C/htdocs/smarteradmin/js/foundation/foundation.js",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/partialFooterForSquad.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/partialFooterForMe.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/partialHeaderForSquad.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/footer2_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/partialForSquad.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/partialForMe.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-weekly-stats.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-buddy-invitation.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-sponsor-weekly-stats.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/head_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-sponsor-invitation.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-weekly-stats-Maria.html",
+		"/C/htdocs/smarteradmin/Register.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/footer2.html",
+		"/C/htdocs/smarteradmin/css/foundation.min.css",
+		"/C/htdocs/smarteradmin/css/flat-icon/flaticon.html",
+		"/C/htdocs/smarteradmin/css/flat-icon/flaticon.css",
+		"/C/htdocs/smarteradmin/css/flat-icon/flaticon.svg",
+		"/C/Users/Irene/Desktop/flaticon.eot",
+		"/C/htdocs/smarteradmin/css/flat-icon/flaticon.eot",
+		"/C/Users/Irene/Desktop/flaticon.html",
+		"/C/htdocs/smarteradmin/css/responsive-tables.css",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-magnet-completed.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-magnet-invitation.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-signup-buddy-invitation.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-signup-sponsor-invitation.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/reset-password.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-weekly-stats-Julie.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/sign-up.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-signup-sponsor-invitation-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-buddy-invitation-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/head_new2.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-sponsor-invitation-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-magnet-completed-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-signup-buddy-invitation-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/reset-password-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-my-weekly-stats-new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-weekly-stats-Mylene.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-magnet-completed_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/reset-password_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/start_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/partials/end_new.html",
+		"/C/htdocs/magneticwill/master/public/templates/acceptsponsor.html",
+		"/C/htdocs/magneticwill/master/public/templates/emails/noti-my-weekly-stats.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"_apps.scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bio",
+			"search bar",
+			"textarea",
+			"height",
+			"search-text",
+			"searchInput",
+			"FORM",
+			"nav",
+			"navbar",
+			"nav-bar",
+			"nav-ba",
+			"accor",
+			"accord",
+			"staff",
+			"include",
+			"reve",
+			"reveral",
+			"acc",
+			"sele",
+			"button",
+			"top-bar",
+			"reveal-modal",
+			"full-height",
+			"clearfix",
+			"picture",
+			"fa",
+			"top bar",
+			"top-bar",
+			"side",
+			"staff",
+			"togg",
+			"menu",
+			"button",
+			"logo",
+			"page",
+			"center",
+			"triggerFile",
+			".padding",
+			"staff",
+			"reveal-modal",
+			"staff",
+			"left",
+			"myModal",
+			"name",
+			"button",
+			".inline",
+			"inline",
+			"columns",
+			"inline",
+			"name",
+			"row",
+			"dropdown",
+			"staff",
+			"h",
+			".left",
+			"columns",
+			"nav",
+			"i",
+			"fi-power",
+			"i",
+			"power",
+			"top-menu",
+			"column",
+			"search-text",
+			"top-menu",
+			"staff-detail",
+			"staff details",
+			"columns",
+			"row",
+			"full-height",
+			"top-menu",
+			"top-menutop-menu",
+			"top-menu",
+			"top-mennu",
+			"logo",
+			"top-menu",
+			"columns",
+			"logo",
+			"655467",
+			"columns	",
+			"border-radius-bottom",
+			"login",
+			"orange",
+			"button",
+			"login",
+			"main	",
+			"login",
+			"left",
+			"right",
+			"search",
+			"logo",
+			"side-nav",
+			"nav ",
+			"row",
+			"nav",
+			"columns",
+			"turquoise",
+			"wrapper",
+			"wrap",
+			".top-menu",
+			"login",
+			"columns",
+			"large-10",
+			"top-menu",
+			"#top-menu",
+			"#top",
+			"menu",
+			".top-menu",
+			"coral-bg",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "introproject.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 95,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "introproject.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
